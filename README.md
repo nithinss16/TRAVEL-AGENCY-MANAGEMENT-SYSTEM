@@ -22,11 +22,6 @@ This project is a **Database Management System mini-project** developed as part 
 - Stored Procedures to retrieve complex data combinations
 - Normalized relational database design
 
-## 📊 Database Design
-
-![ER Diagram](ER_Diagram.png)  
-![Schema Diagram](Schema_Diagram.png)
-
 ## 📄 Report
 
 The full academic project report can be found here:  
